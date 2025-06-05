@@ -41,7 +41,3 @@ Analyze a suspicious email to identify common phishing indicators.
 This email is a likely phishing attempt. It uses GitHub branding to trick the user into verifying an email that does not belong to them. The sender’s domain is unrelated to GitHub, which is a major red flag. Users should avoid clicking the button and report the email as phishing.
 
 ---
-
-## 📸 Screenshots:
-
-Screenshot stored in a files named `screenshots/`
